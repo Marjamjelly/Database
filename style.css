@@ -1,0 +1,41 @@
+body {
+    font-family: "Courier New", monospace;
+    background-color: black;
+    color: #00ff00;
+  }
+  .sidenav {
+    width: 150px;
+    position: fixed;
+    z-index: 1;
+    top: 20px;
+    left: 10px;
+    background: #000000;
+    overflow-x: hidden;
+    padding: 10px 0;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #00ff00;
+    margin-top: 140px;
+  }
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #00ff00;
+    display: block;
+  }
+  .sidenav a:hover {
+    color: #263e0f;
+  }
+  .main {
+    margin-left: 160px;
+    font-size: 28px;
+    padding: 0px 10px;
+  }
+  header {
+    text-align: center;
+    border-bottom: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #00ff00;
+  }
+  
