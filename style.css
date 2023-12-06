@@ -2,8 +2,8 @@ body {
     font-family: "Courier New", monospace;
     background-color: black;
     color: #00ff00;
-  }
-  .sidenav {
+}
+.sidenav {
     width: 150px;
     position: fixed;
     z-index: 1;
@@ -16,26 +16,29 @@ body {
     border-width: 1px;
     border-color: #00ff00;
     margin-top: 140px;
-  }
-  .sidenav a {
+}
+.sidenav a {
     padding: 6px 8px 6px 16px;
     text-decoration: none;
     font-size: 25px;
     color: #00ff00;
     display: block;
-  }
-  .sidenav a:hover {
+}
+.sidenav a:hover {
     color: #263e0f;
-  }
-  .main {
+}
+.main {
     margin-left: 160px;
     font-size: 28px;
     padding: 0px 10px;
-  }
-  header {
+}
+header {
     text-align: center;
     border-bottom: 1px;
     border-bottom-style: solid;
     border-bottom-color: #00ff00;
-  }
+}
+footer {
+  border-top: solid,1px, #00ff00;
+}
   
